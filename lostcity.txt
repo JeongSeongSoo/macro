@@ -2,6 +2,7 @@
   "version": 1,
   "users": {
     "B07D64DAEDC8": "D678USdfFqBOHuYf3f/XOK/4ROJyO9W9atOtAkyCtK0=",
-    "7085C2D71518": "om4s6zFlSU7FQAjnDmuzuUkgpZk8fEPj+4nGVrsCN8I="
+    "7085C2D71518": "om4s6zFlSU7FQAjnDmuzuUkgpZk8fEPj+4nGVrsCN8I=",
+    "C87F5405A2C6": "/drEpkMYrrHyvns+EDZVHExN5eeZQ492HFZMG8gnyD8="
   }
 }
