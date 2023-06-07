@@ -1,6 +1,7 @@
 {
   "version": 1,
   "users": {
-    "B07D64DAEDC8": "D678USdfFqBOHuYf3f/XOK/4ROJyO9W9atOtAkyCtK0="
+    "B07D64DAEDC8": "D678USdfFqBOHuYf3f/XOK/4ROJyO9W9atOtAkyCtK0=",
+    "7085C2D71518": "om4s6zFlSU7FQAjnDmuzuUkgpZk8fEPj+4nGVrsCN8I="
   }
 }
