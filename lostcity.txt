@@ -11,6 +11,7 @@
     "F4B52030EAE9": "8Pmxqko+7CsptXGjbcEArdycIhwCH64Ub+5NW+YZZW0=",
     "D45D647F7067": "PGaQCbXWNTFsev76WGEAVx6/mFGMp8rQioWiQT7Xjuk=",
     "A8A1597C2D1A": "PvRmuntBqk1hRVZk7cdaIHbbljNv8yuRsC5iyyBVOwM=",
-    "D85ED379DC78": "8cr0aTdd0asEiycdUmX1n9elMaNA0LwThSDGb2WPMrc="
+    "D85ED379DC78": "8cr0aTdd0asEiycdUmX1n9elMaNA0LwThSDGb2WPMrc=",
+    "581122D3EE78": "Dk6W2AIgy86VqoDE0lXovV20hXqzBarTERcEM1z2k+Q="
   }
 }
