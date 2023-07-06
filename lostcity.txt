@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "users": {
     "B07D64DAEDC8": "D678USdfFqBOHuYf3f/XOK/4ROJyO9W9atOtAkyCtK0=",
     "E00AF6A3ABDF": "lTYa9/vwvzIhl+4ynGe7UslY1k6OJG4Lo4iTDBlCVGI=",
