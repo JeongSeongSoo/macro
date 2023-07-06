@@ -2,7 +2,6 @@
   "version": 1,
   "message": "테스트",
   "users": {
-    "B07D64DAEDC8": "D678USdfFqBOHuYf3f/XOK/4ROJyO9W9atOtAkyCtK0=",
-    "b0:7d:64:da:ed:cc": "20230707|1"
+    "b0:7d:64:da:ed:cc": "99999999|99"
   }
 }
