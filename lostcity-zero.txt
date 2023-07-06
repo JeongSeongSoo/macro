@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "message": "테스트",
+  "users": {
+    "B07D64DAEDC8": "D678USdfFqBOHuYf3f/XOK/4ROJyO9W9atOtAkyCtK0="
+  }
+}
